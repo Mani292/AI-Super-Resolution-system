@@ -1,0 +1,7 @@
+{
+  "name": "SIH 2026 PS-142 Satellite Super-Resolution",
+  "description": "Deep Learning Based Super Resolution Mapping (SRM) from Medium Resolution Satellite Imageries (10m Sentinel-2 to 2.5m GeoTIFF with uncertainty and spectral validation).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
