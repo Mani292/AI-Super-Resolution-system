@@ -142,8 +142,4 @@ $$\mathcal{L}_{\text{Total}} = 1.00 \cdot \mathcal{L}_{1} + 0.15 \cdot (1 - \tex
 3. **Spectral Cosine Loss**: Enforces multidimensional band angle alignment without trigonometric arccos instability.
 4. **Gradient Loss**: Direct first-order penalty on texture blurring.
 
----
 
-## 📄 License
-
-This project is open-source and distributed under the [MIT License](LICENSE).
